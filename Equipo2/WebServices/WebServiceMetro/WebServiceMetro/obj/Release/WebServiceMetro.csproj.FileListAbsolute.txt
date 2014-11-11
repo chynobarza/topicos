@@ -1,0 +1,4 @@
+c:\users\alfonso\documents\visual studio 2010\Projects\WebServiceMetro\WebServiceMetro\bin\WebServiceMetro.dll
+c:\users\alfonso\documents\visual studio 2010\Projects\WebServiceMetro\WebServiceMetro\bin\WebServiceMetro.pdb
+c:\users\alfonso\documents\visual studio 2010\Projects\WebServiceMetro\WebServiceMetro\obj\Release\WebServiceMetro.dll
+c:\users\alfonso\documents\visual studio 2010\Projects\WebServiceMetro\WebServiceMetro\obj\Release\WebServiceMetro.pdb

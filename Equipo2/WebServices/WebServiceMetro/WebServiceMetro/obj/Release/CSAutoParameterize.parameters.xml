@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ApplicationServices-Web.config Connection String" description="ApplicationServices Connection String used in web.config by the application to access the database." defaultValue="data source=.\SQLEXPRESS;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnetdb.mdf;User Instance=true" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\alfonso\\documents\\visual\ studio\ 2010\\Projects\\WebServiceMetro\\WebServiceMetro\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ApplicationServices']/@connectionString" />
+  </parameter>
+  <parameter name="equipo2Entities-Web.config Connection String" description="equipo2Entities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/ModelDataBase.csdl|res://*/ModelDataBase.ssdl|res://*/ModelDataBase.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=jcrpcmrpli.database.windows.net;initial catalog=equipo2;persist security info=True;user id=equipo2;password=a13s@13~~q34;multipleactiveresultsets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\alfonso\\documents\\visual\ studio\ 2010\\Projects\\WebServiceMetro\\WebServiceMetro\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='equipo2Entities']/@connectionString" />
+  </parameter>
+</parameters>
