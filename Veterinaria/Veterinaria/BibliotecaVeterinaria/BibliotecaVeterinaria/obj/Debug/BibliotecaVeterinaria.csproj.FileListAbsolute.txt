@@ -1,0 +1,7 @@
+C:\Users\Fredy\Desktop\Veterinaria\BibliotecaVeterinaria\BibliotecaVeterinaria\bin\Debug\BibliotecaVeterinaria.dll
+C:\Users\Fredy\Desktop\Veterinaria\BibliotecaVeterinaria\BibliotecaVeterinaria\bin\Debug\BibliotecaVeterinaria.pdb
+C:\Users\Fredy\Desktop\Veterinaria\BibliotecaVeterinaria\BibliotecaVeterinaria\obj\Debug\BibliotecaVeterinaria.dll
+C:\Users\Fredy\Desktop\Veterinaria\BibliotecaVeterinaria\BibliotecaVeterinaria\obj\Debug\BibliotecaVeterinaria.pdb
+C:\Users\Fredy\Desktop\Veterinaria\BibliotecaVeterinaria\BibliotecaVeterinaria\obj\Debug\BibliotecaVeterinaria.csprojResolveAssemblyReference.cache
+C:\Users\Fredy\Desktop\Veterinaria\BibliotecaVeterinaria\BibliotecaVeterinaria\bin\Debug\RepositorioEstudiantes.dll
+C:\Users\Fredy\Desktop\Veterinaria\BibliotecaVeterinaria\BibliotecaVeterinaria\bin\Debug\RepositorioEstudiantes.pdb
